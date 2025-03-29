@@ -1,0 +1,49 @@
+reaction	upper-bound	lower-bound	comment
+Sucrose_tx1	0	0	turn off free sugar uptake
+Sucrose_tx2	0	0	turn off free sugar uptake
+Sucrose_tx3	0	0	turn off free sugar uptake
+Sucrose_tx4	0	0	turn off free sugar uptake
+GLC_tx1	0	0	turn off free sugar uptake
+GLC_tx2	0	0	turn off free sugar uptake
+GLC_tx3	0	0	turn off free sugar uptake
+GLC_tx4	0	0	turn off free sugar uptake
+Photon_tx2	0	0	turn off photon uptake at night
+Photon_tx4	0	0	turn off photon uptake at night
+CO2_tx3	0	0	turn off CO2 uptake in bundle-sheath cells
+CO2_tx4	0	0	turn off CO2 uptake in bundle-sheath cells
+NH4_tx1	0	0	turn off ammonium uptake
+NH4_tx2	0	0	turn off ammonium uptake
+NH4_tx3	0	0	turn off ammonium uptake
+NH4_tx4	0	0	turn off ammonium uptake
+RIBULOSE_BISPHOSPHATE_CARBOXYLASE_RXN_p1	0	0	turn off RUBISCO in mesophyll cells
+RIBULOSE_BISPHOSPHATE_CARBOXYLASE_RXN_p2	0	0	turn off RUBISCO in mesophyll cells
+GLYOHMETRANS_RXN_m1	0	0	Based on doi.org/10.1093/jxb/erw056
+GLYOHMETRANS_RXN_m2	0	0	Based on doi.org/10.1093/jxb/erw056
+GCVMULTI_RXN_m1	0	0	Based on doi.org/10.1093/jxb/erw056
+GCVMULTI_RXN_m2	0	0	Based on doi.org/10.1093/jxb/erw056
+2PGADEHYDRAT_RXN_p1	0	0	Based on doi.org/10.1016/j.febslet.2009.02.017
+2PGADEHYDRAT_RXN_p2	0	0	Based on doi.org/10.1016/j.febslet.2009.02.017
+2PGADEHYDRAT_RXN_p3	0	0	Based on doi.org/10.1016/j.febslet.2009.02.017
+2PGADEHYDRAT_RXN_p4	0	0	Based on doi.org/10.1016/j.febslet.2009.02.017
+Plastoquinol_Oxidase_p1	0	0	Based on doi.org/10.1104/pp.123.4.1427 - doubleCheck
+Plastoquinol_Oxidase_p2	0	0	Based on doi.org/10.1104/pp.123.4.1427 - doubleCheck
+Plastoquinol_Oxidase_p3	0	0	Based on doi.org/10.1104/pp.123.4.1427 - doubleCheck
+Plastoquinol_Oxidase_p4	0	0	Based on doi.org/10.1104/pp.123.4.1427 - doubleCheck
+GLYCOGENSYN_RXN_p1	0	0	Based on doi.org/10.1093/jxb/err035
+GLYCOGENSYN_RXN_p2	0	0	Based on doi.org/10.1093/jxb/err035
+G6P_Pi_pc1	0	0	Based on doi.org/10.1093/jxb/erh143 and doi.org/10.1093/jxb/err035
+G6P_Pi_pc2	0	0	Based on doi.org/10.1093/jxb/erh143 and doi.org/10.1093/jxb/err035
+G6P_Pi_pc3	0	0	Based on doi.org/10.1093/jxb/erh143 and doi.org/10.1093/jxb/err035
+G6P_Pi_pc4	0	0	Based on doi.org/10.1093/jxb/erh143 and doi.org/10.1093/jxb/err035
+PSII_RXN_p3	0	0	Based on doi.org/10.1016/j.jplph.2005.06.007
+PSII_RXN_p4	0	0	Based on doi.org/10.1016/j.jplph.2005.06.007
+1_PERIOD_1_PERIOD_1_PERIOD_39_RXN_m3	0	0	Based on doi.org/10.1104/pp.120.2.539
+1_PERIOD_1_PERIOD_1_PERIOD_39_RXN_m4	0	0	Based on doi.org/10.1104/pp.120.2.539
+GAPOXNPHOSPHN_RXN_c1	4000	0
+GAPOXNPHOSPHN_RXN_c2	4000	0
+GAPOXNPHOSPHN_RXN_c3	4000	0
+GAPOXNPHOSPHN_RXN_c4	4000	0
+GAPOXNPHOSPHN_RXN_p1	4000	0
+GAPOXNPHOSPHN_RXN_p2	4000	0
+GAPOXNPHOSPHN_RXN_p3	4000	0
+GAPOXNPHOSPHN_RXN_p4	4000	0

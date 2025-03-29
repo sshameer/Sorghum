@@ -1,0 +1,10 @@
+STARCH_p
+aMAL_v
+MAL_v
+FUM_v
+aCIT_v
+CIT_v
+NITRATE_v
+SUCROSE_v
+GLC_v
+FRU_v
